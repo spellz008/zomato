@@ -82,9 +82,9 @@ button {
     cursor: pointer;
 }
 button:hover {
-    background-color: blue;
+    background-color: white;
     transition: 0.5s;
-    color: white;
+    color:black;
 }
 
 @media(max-width:884px){
